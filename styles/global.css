@@ -5,9 +5,9 @@
 }
 
 body {
-  min-width: 1100px;
-  margin: 0;
-  font-family: Raleway, sans-serif;
+  width: 1100px;
+  margin: 0 auto;
+  font-family: 'Raleway', sans-serif;
 }
 
 h1,
